@@ -22,3 +22,8 @@
 |Inferencing|Training|
 |-----------|--------|
 |4 GB RAM | 16 GB RAM|
+
+## Organizers
+<p align="center">
+  <img src=images/organizers.PNG alt="Fileds">
+</p>
