@@ -6,9 +6,12 @@
   <img src=images/fileds2.PNG alt="Fileds">
 </p>
 
-![Fileds](images/fileds2.PNG)
 
-![Fileds](images/fileds1.PNG)
+<p align="center">
+  <img src=images/fileds1.PNG alt="Fileds">
+</p>
+
+
 ## Hardware Requirements
 
 |Inferencing|Training|
